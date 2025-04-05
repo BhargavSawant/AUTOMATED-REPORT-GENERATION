@@ -97,3 +97,5 @@ This **Internship Certificate Generator** is a Python-based script that automate
    Customize and issue participation or appreciation certificates.
 
 ---
+## OUTPUT
+![tasl2_output](https://github.com/user-attachments/assets/aece0c5a-868d-47f0-b40d-02b9f341b4c7)
