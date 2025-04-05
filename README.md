@@ -1,6 +1,5 @@
 # AUTOMATED-REPORT-GENERATION
-
-# 🏅 Internship Certificate Generator with Python  
+ 
 COMPANY: CODETECH IT SOLUTION
 
 NAME: BHARGAV SAAWANT B
